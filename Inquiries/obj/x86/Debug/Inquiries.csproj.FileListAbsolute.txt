@@ -1,0 +1,9 @@
+C:\Users\Hamaada\Desktop\montzer\data base\Inquiries\Inquiries\bin\Debug\Inquiries.exe.config
+C:\Users\Hamaada\Desktop\montzer\data base\Inquiries\Inquiries\bin\Debug\Inquiries.exe
+C:\Users\Hamaada\Desktop\montzer\data base\Inquiries\Inquiries\bin\Debug\Inquiries.pdb
+C:\Users\Hamaada\Desktop\montzer\data base\Inquiries\Inquiries\obj\x86\Debug\Inquiries.Form1.resources
+C:\Users\Hamaada\Desktop\montzer\data base\Inquiries\Inquiries\obj\x86\Debug\Inquiries.Properties.Resources.resources
+C:\Users\Hamaada\Desktop\montzer\data base\Inquiries\Inquiries\obj\x86\Debug\Inquiries.csproj.GenerateResource.Cache
+C:\Users\Hamaada\Desktop\montzer\data base\Inquiries\Inquiries\obj\x86\Debug\Inquiries.exe
+C:\Users\Hamaada\Desktop\montzer\data base\Inquiries\Inquiries\obj\x86\Debug\Inquiries.pdb
+C:\Users\Hamaada\Desktop\montzer\data base\Inquiries\Inquiries\obj\x86\Debug\Inquiries.csprojResolveAssemblyReference.cache
